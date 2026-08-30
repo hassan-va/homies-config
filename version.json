@@ -1,7 +1,7 @@
 {
   "android": {
     "latestVersion": "9.9.11",
-    "minRequiredVersion": "1.0.0",
+    "minRequiredVersion": "9.9.11",
     "updateUrl": "https://drive.google.com/your-apk-link"
   },
   "ios": {
