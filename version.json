@@ -1,5 +1,5 @@
 {
-  "android": { "latestVersion": "11.3.10", "minRequiredVersion": "1.0.0",
+  "android": { "latestVersion": "5.5.5", "minRequiredVersion": "1.0.0",
                "updateUrl": "https://drive.google.com/your-apk-link" },
   "ios":     { "latestVersion": "1.3.0", "minRequiredVersion": "1.0.0",
                "updateUrl": "https://testflight.apple.com/join/your-code" }
